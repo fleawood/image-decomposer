@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+# Images
+*.bmp
+*.png
+
+# Target
+Kaleido
