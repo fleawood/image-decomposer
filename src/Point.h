@@ -18,5 +18,9 @@ Vector operator * (float, Vector);
 float dot(Vector, Vector);
 float cross(Vector, Vector);
 float area(Point, Point, Point);
+float length(Vector);
+float dist(Point, Point);
+Point get_random_point(Point, Point, Point);
+bool is_too_close(Point, Point);
 
 #endif

@@ -6,6 +6,9 @@
 class CIE_xyY;
 class CIE_XYZ;
 
+const float XYZ_MAX_X = 0.950456;
+const float XYZ_MAX_Z = 1.088754;
+
 class CIE_XYZ
 {
 public:

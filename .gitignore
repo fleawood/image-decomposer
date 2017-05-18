@@ -32,5 +32,12 @@
 *.bmp
 *.png
 
-# Target
-Kaleido
+# Logs
+*.log
+*.tlog
+
+# Misc
+image-decomposer
+/x64
+*.db
+*.opendb
